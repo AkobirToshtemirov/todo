@@ -55,3 +55,14 @@ Make sure you have the following installed:
 ## Usage
 
 - Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoints to interact with the Todo API.
+
+**Questions from the task:**
+    - Was it easy to complete the task using AI? yes
+    - How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 4 hours
+    - Was the code ready to run after generation? mostly
+    - What did you have to change to make it usable? add some changes to service layer and test
+    - Which challenges did you face during completion of the task? faced problems when writing test
+    - Which specific prompts you learned as a good practice to complete the task? giving a role to chat gpt
+
+
+
