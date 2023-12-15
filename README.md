@@ -57,6 +57,7 @@ Make sure you have the following installed:
 - Use any REST client (e.g., Postman) or make HTTP requests to the provided endpoints to interact with the Todo API.
 
 **Questions from the task:**
+
     - Was it easy to complete the task using AI? yes
     - How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics) 4 hours
     - Was the code ready to run after generation? mostly
